@@ -1,5 +1,5 @@
 # Set up selenium Tests
-Check the pom.xml definition and the code source of the class day1 
+Check the pom.xml definition and the code source of the class PetclinicTest.java 
 **Attention** The IP address of the test version of the website is hardcoded that shouldn't 
 be done in the real CI/CD environment.  
   

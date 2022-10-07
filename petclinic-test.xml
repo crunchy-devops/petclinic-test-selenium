@@ -2,7 +2,7 @@
 <suite name="Day1 Suite">
     <test name="demo test">
         <classes>
-            <class name="petclinic-test"></class>
+            <class name="PetclinicTest"></class>
         </classes>
     </test>
 </suite>

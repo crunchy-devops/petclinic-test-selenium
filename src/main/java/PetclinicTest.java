@@ -14,7 +14,7 @@ import java.net.URL;
 
 //import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-public class petclinic-test {
+public class PetclinicTest {
 
     WebDriver driver;
     @BeforeMethod
