@@ -24,7 +24,7 @@ public class PetclinicTest {
         caps.setPlatform(Platform.LINUX);
         driver = new RemoteWebDriver(new
                 URL("http://selenium-hub:4444/wd/hub"), caps);
-        driver.get("http://34.79.12.121:19090/webapp");
+        driver.get("http://34.79.12.121:19090/petclinic");
     }
     @Test
     public void petclinic() {
